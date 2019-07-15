@@ -2,6 +2,7 @@
   "name": "bs-reselect",
   "version": "0.1.0",
   "scripts": {
+    "test": "yarn run build && jest",
     "clean": "bsb -clean-world",
     "build": "bsb -make-world",
     "watch": "bsb -make-world -w"
@@ -15,6 +16,7 @@
     "bs-platform": "^5.0.6"
   },
   "devDependencies": {
+    "@glennsl/bs-jest": "^0.4.8",
     "bs-platform": "^5.0.6"
   }
 }
