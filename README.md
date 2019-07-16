@@ -71,7 +71,7 @@ Then add `bs-reselect` to `bs-dependencies` in your `bsconfig.json`:
 
 ## Usage
 
-See usage examples in [`readme.re`](https://github.com/barkmadley/bs-reselect/blob/master/examples/readme.re). The source is a [single file](https://github.com/barkmadley/bs-reselect/blob/master/src/Reselect.re) that corresponds almost directly to the [typescript bindngs](https://github.com/reduxjs/reselect/blob/master/src/index.d.ts#L19).
+See usage examples in [`readme.re`](https://github.com/barkmadley/bs-reselect/blob/master/examples/readme.re). The source is a [single file](https://github.com/barkmadley/bs-reselect/blob/master/src/Reselect.re) that corresponds almost directly to the [typescript bindings](https://github.com/reduxjs/reselect/blob/master/src/index.d.ts#L19).
 
 ## Changes
 
