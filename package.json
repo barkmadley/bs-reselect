@@ -10,7 +10,7 @@
   "keywords": [
     "BuckleScript"
   ],
-  "author": "",
+  "author": "Mark Bradley",
   "license": "MIT",
   "peerDependencies": {
     "bs-platform": "^5.0.6"
