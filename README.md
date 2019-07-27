@@ -75,6 +75,10 @@ See usage examples in [`readme.re`](https://github.com/barkmadley/bs-reselect/bl
 
 ## Changes
 
+### 0.2.0
+
+- Add initial version of GADT based bindings in Reselector module
+
 ### 0.1.0
 
 - Initial release with bindings for up to 9 createSelector parameters
